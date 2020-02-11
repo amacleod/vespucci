@@ -7,7 +7,8 @@ verify_ssl = true
 
 [packages]
 anvil-parser = "*"
-nbt = "*"
+nbt = "==1.5.0"
+frozendict = "==1.2"
 
 [requires]
 python_version = "3.8"
